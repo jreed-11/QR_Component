@@ -27,9 +27,9 @@ body {
   border-radius: 20px;
   box-shadow: 2px 5px 10px grey;
   justify-items: center;
-  max-width: 32rem;
-  margin: 0 auto;
   margin-top: 14rem;
+  margin: 0 auto;
+  max-width: 32rem;
 }
 
 .inner_container {
